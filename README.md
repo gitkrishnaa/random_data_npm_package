@@ -14,7 +14,7 @@ const data=require("get-random-data")  //import
 
 
 
-**************** for random string ************************************************************************************
+**************** for random_string ***********************************************
 
  ::::::::::::::::::::::::::
  @ when two argument/param
@@ -40,6 +40,9 @@ const data=require("get-random-data")  //import
 
 **************** for random number ******************
 
+ ::::::::::::::::::::::::::
+ @ when two argument/param
+::::::::::::::::::::::::::
 
 // #  code -> console.log(data.random_number(5,11))
   
@@ -47,8 +50,9 @@ const data=require("get-random-data")  //import
 
 // result  array [45731,  2889, 48264, 5614, 85032, 14899, 7084, 77963, 74061,65142,65714]
 
-
-
+ ::::::::::::::::::::::::::
+ @ when two argument/param
+::::::::::::::::::::::::::
 
 
 // #  code -> console.log(data.random_number(5))
