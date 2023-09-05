@@ -15,9 +15,11 @@ const data=require("get-random-data")  //import
 
 
 **************** for random string ************************************************************************************
+
  ::::::::::::::::::::::::::
  @ when two argument/param
 ::::::::::::::::::::::::::
+
 // #  code -> console.log(data.random_string(5,10))
   
 //explain- 5-character size of string and ,10- how many string
